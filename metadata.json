@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Creator",
+  "description": "An enchanting AI-powered story generator and character workshop that crafts immersive tales across multiple genres, lengths, and styles with Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
